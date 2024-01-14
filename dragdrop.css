@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+#zonaDestino {
+    width: 400px;
+    height: 400px;
+    margin: 15px auto;
+    background: lightskyblue;
+}
+
+#OzonaDestino {
+    width: 400px;
+    height: 400px;
+    margin: 15px auto;
+    background: rgb(140, 206, 35);
+}
